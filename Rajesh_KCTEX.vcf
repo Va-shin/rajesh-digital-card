@@ -1,11 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Rajesh V P
-FN:Rajesh V P
+N:Rajesh P V
+FN:Rajesh P V
 ORG:KCTEX International Ltd
 TITLE:Vice President
 TEL;TYPE=WORK:+6591173319
 EMAIL;TYPE=WORK:Rajesh@kctex.com.sg
 ADR;TYPE=WORK:;;6 Shenton Way #07-09;Singapore;;068809;Singapore
 END:VCARD
+
 
